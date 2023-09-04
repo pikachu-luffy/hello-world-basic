@@ -1,0 +1,11 @@
+description,name,cost
+E2 Instance Core running in Mumbai,projects/993912814221/instances/ad-windows1,280.40107999999992
+E2 Instance Core running in Mumbai,projects/993912814221/instances/data-scripts,841.2043359999999
+E2 Instance Core running in Mumbai,projects/993912814221/instances/data-products-1,140.20080499999997
+E2 Instance Core running in Mumbai,projects/993912814221/instances/data-mining-server,140.20080299999998
+E2 Instance Core running in Mumbai,projects/993912814221/instances/jupyter-notebook-v1,4484.229067
+E2 Instance Core running in Mumbai,projects/993912814221/instances/indefend-dlp-machine,1121.6059609999998
+E2 Instance Core running in Mumbai,projects/993912814221/instances/indefend-seg-machine,1121.605971
+E2 Instance Core running in Mumbai,projects/993912814221/instances/appsflyer-critical-events,280.401083
+E2 Instance Core running in Mumbai,projects/993912814221/instances/aman-arora-as1-jupyter-20230214-162349,933.92067100000008
+E2 Instance Core running in Mumbai,projects/993912814221/instances/jupyter-notbook-2,593.303726
